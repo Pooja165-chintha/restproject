@@ -1,0 +1,69 @@
+2020-06-22 17:39:07,050 INFO  [log] 200
+2020-06-22 17:39:07,083 INFO  [log] bearer fba106e5318123872ce886142ba8bdf8b9d40f20
+2020-06-22 17:39:08,147 INFO  [log] 200
+2020-06-22 17:39:08,149 INFO  [log] bearer 2640b4bff8456b41cebcc48b341e6d438b82e2af
+2020-06-22 17:39:08,451 INFO  [log] upskills_admin
+2020-06-22 17:39:08,451 INFO  [log] Talent4$$
+2020-06-22 17:39:08,785 INFO  [log] 200
+2020-06-22 17:39:08,785 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"106.0.36.4","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-06-22 17:39:08,793 INFO  [log] upskills_admin
+2020-06-22 17:39:08,793 INFO  [log] upskills_admin
+2020-06-22 17:39:09,269 INFO  [log] 200
+2020-06-22 17:39:09,270 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"106.0.36.4","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-06-22 17:39:09,277 INFO  [log] upskills_admin
+2020-06-22 17:39:09,277 INFO  [log] upskills_admin
+2020-06-22 17:39:09,609 INFO  [log] 200
+2020-06-22 17:39:09,611 INFO  [log] {"success":1,"error":[],"data":[]}
+2020-06-22 17:39:09,612 INFO  [log] 1
+2020-06-22 17:39:09,624 INFO  [log] Status : FINISHED, time taken for testcase is 1044 ms
+2020-06-22 17:39:09,639 INFO  [log] number of tets steps executed are : 3
+2020-06-22 17:39:09,960 INFO  [log] 200
+2020-06-22 17:39:09,960 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"106.0.36.4","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-06-22 17:39:09,965 INFO  [log] upskills_admin
+2020-06-22 17:39:09,966 INFO  [log] upskills_admin
+2020-06-22 17:39:10,282 INFO  [log] 200
+2020-06-22 17:39:10,283 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"106.0.36.4","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-06-22 17:39:10,290 INFO  [log] upskills_admin
+2020-06-22 17:39:10,294 INFO  [log] upskills_admin
+2020-06-22 17:39:10,608 INFO  [log] 200
+2020-06-22 17:39:10,609 INFO  [log] {"success":1,"error":[],"data":[]}
+2020-06-22 17:39:10,611 INFO  [log] 1
+2020-06-22 17:39:10,955 INFO  [log] 200
+2020-06-22 17:39:10,955 INFO  [log] bearer 54437686e98299898206363ca0be9f9ecf283dc3
+2020-06-22 17:39:11,960 INFO  [log] 200
+2020-06-22 17:39:11,961 INFO  [log] bearer c2f84d0e0f5ffdf74464611315b8928551671113
+2020-06-22 17:39:12,646 INFO  [log] []
+2020-06-22 17:39:13,001 INFO  [log] 1504
+2020-06-22 17:39:13,943 INFO  [log] 200
+2020-06-22 17:39:13,944 INFO  [log] bearer 2186afb691761cc89553e78705a42d180b7c6050
+2020-06-22 17:39:14,580 INFO  [log] []
+2020-06-22 17:39:14,919 INFO  [log] 1505
+2020-06-22 17:39:16,287 INFO  [log] 200
+2020-06-22 17:39:16,289 INFO  [log] bearer ff9a3e3400e6297847d74b97711270a47a7fa9bf
+2020-06-22 17:39:17,354 INFO  [log] []
+2020-06-22 17:39:17,664 INFO  [log] 1506
+2020-06-22 17:39:18,613 INFO  [log] 200
+2020-06-22 17:39:18,614 INFO  [log] bearer a3f8008111752a15aeda9e942742f16bb0719e50
+2020-06-22 17:39:19,165 INFO  [log] pooja@xyz.com
+2020-06-22 17:39:19,165 INFO  [log] Mobile
+2020-06-22 17:39:19,488 INFO  [log] 200
+2020-06-22 17:39:19,488 INFO  [log] bearer 649843550904ce37ff651ef4f8f1aba7337d68ed
+2020-06-22 17:39:20,134 INFO  [log] 896
+2020-06-22 17:39:20,467 INFO  [log] []
+2020-06-22 17:39:21,250 INFO  [log] 363
+2020-06-22 17:39:23,064 INFO  [log] Status : FINISHED, time taken for testcase is 2769 ms
+2020-06-22 17:39:23,065 INFO  [log] number of tets steps executed are : 6
+2020-06-22 17:39:23,073 INFO  [log] xyz@gmail.com
+2020-06-22 17:39:23,074 INFO  [log] tab
+2020-06-22 17:39:23,577 INFO  [log] 200
+2020-06-22 17:39:23,578 INFO  [log] bearer 673f029f8e1ba25dea57fd3b4e6cf7953333692d
+2020-06-22 17:39:24,197 INFO  [log] 897
+2020-06-22 17:39:24,519 INFO  [log] 1507
+2020-06-22 17:39:25,307 INFO  [log] 364
+2020-06-22 17:39:26,241 INFO  [log] Status : FINISHED, time taken for testcase is 2299 ms
+2020-06-22 17:39:26,242 INFO  [log] number of tets steps executed are : 6
+2020-06-22 17:39:26,881 INFO  [log] 200
+2020-06-22 17:39:26,881 INFO  [log] bearer c7e313c50b88a30d5afd3136d522ed0bb4ccefa0
+2020-06-22 17:39:27,495 INFO  [log] 898
+2020-06-22 17:39:27,804 INFO  [log] 1508
+2020-06-22 17:39:28,472 INFO  [log] 365
